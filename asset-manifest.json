@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajaythakare999.github.io/React-Assign/static/css/main.ac1bd50b.css",
+    "main.js": "/ajaythakare999.github.io/React-Assign/static/js/main.ee7a1f03.js",
+    "static/js/787.ebdc3674.chunk.js": "/ajaythakare999.github.io/React-Assign/static/js/787.ebdc3674.chunk.js",
+    "index.html": "/ajaythakare999.github.io/React-Assign/index.html",
+    "main.ac1bd50b.css.map": "/ajaythakare999.github.io/React-Assign/static/css/main.ac1bd50b.css.map",
+    "main.ee7a1f03.js.map": "/ajaythakare999.github.io/React-Assign/static/js/main.ee7a1f03.js.map",
+    "787.ebdc3674.chunk.js.map": "/ajaythakare999.github.io/React-Assign/static/js/787.ebdc3674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1bd50b.css",
+    "static/js/main.ee7a1f03.js"
+  ]
+}
