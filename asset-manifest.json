@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ajaythakare999.github.io/Recat-Assign/static/css/main.ac1bd50b.css",
-    "main.js": "/ajaythakare999.github.io/Recat-Assign/static/js/main.0af667e4.js",
-    "static/js/787.ebdc3674.chunk.js": "/ajaythakare999.github.io/Recat-Assign/static/js/787.ebdc3674.chunk.js",
-    "index.html": "/ajaythakare999.github.io/Recat-Assign/index.html",
-    "main.ac1bd50b.css.map": "/ajaythakare999.github.io/Recat-Assign/static/css/main.ac1bd50b.css.map",
-    "main.0af667e4.js.map": "/ajaythakare999.github.io/Recat-Assign/static/js/main.0af667e4.js.map",
-    "787.ebdc3674.chunk.js.map": "/ajaythakare999.github.io/Recat-Assign/static/js/787.ebdc3674.chunk.js.map"
+    "main.css": "/Recat-Assign/static/css/main.ac1bd50b.css",
+    "main.js": "/Recat-Assign/static/js/main.ed752c3c.js",
+    "static/js/787.ebdc3674.chunk.js": "/Recat-Assign/static/js/787.ebdc3674.chunk.js",
+    "index.html": "/Recat-Assign/index.html",
+    "main.ac1bd50b.css.map": "/Recat-Assign/static/css/main.ac1bd50b.css.map",
+    "main.ed752c3c.js.map": "/Recat-Assign/static/js/main.ed752c3c.js.map",
+    "787.ebdc3674.chunk.js.map": "/Recat-Assign/static/js/787.ebdc3674.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac1bd50b.css",
-    "static/js/main.0af667e4.js"
+    "static/js/main.ed752c3c.js"
   ]
 }
